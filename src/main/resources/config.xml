@@ -18,5 +18,6 @@
     </environments>
     <mappers>
         <mapper resource="com/scheele/mapper/AccountMapper.xml"/>
+        <mapper resource="com/scheele/repository/AccountRepository.xml"/>
     </mappers>
 </configuration>
